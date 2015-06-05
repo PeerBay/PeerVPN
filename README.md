@@ -1,4 +1,4 @@
-!! Worki!! locally only for now
+!! Working locally only for now
 Create p2p virtual private networks with python and n2n.
 
 How to install:
